@@ -10,3 +10,13 @@ C:\Program Files\Java\jdk_xxx
 2.2* Подсчитать сколько Java файлов содержат внутри строку @FunctionalInterface
 и вывести их имена.
 2.3* переместить файл src.zip и распаковать программно
+
+
+
+Реализацию для класса GZip.java взял в интернете. Коментарии кода оставил авторские.
+Вот это:
+        String sourceZip = "D:\\GZ\\Workspace\\IdeaProjects\\src.zip";
+        String targetZip = "D:\\GZ\\Workspace\\IdeaProjects\\Test\\src.zip";
+        String outDir = "D:\\GZ\\Workspace\\IdeaProjects\\Test\\src";
+
+требует доработки.

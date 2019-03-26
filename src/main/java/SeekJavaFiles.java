@@ -6,8 +6,6 @@ public class SeekJavaFiles {
     private static int annotationCounter = 0;
 
     public static void seek (String path) {
-        //String path = "D:\\GZ\\Workspace\\IdeaProjects\\src";
-        //String path = "/home/glib/IdeaProjects/src";
         System.out.println("Looking for *.java files in the \"" + path + "\" path");
         File homeDir = new File(path);
         if (homeDir.exists() && homeDir.isDirectory()) {
