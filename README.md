@@ -13,7 +13,9 @@ C:\Program Files\Java\jdk_xxx
 
 
 
-Реализацию для класса GZip.java взял в интернете. Коментарии кода оставил авторские.
+27.03.2019
+Подчищен класс GZip
+
 Вот это:
         String sourceZip = "D:\\GZ\\Workspace\\IdeaProjects\\src.zip";
         String targetZip = "D:\\GZ\\Workspace\\IdeaProjects\\Test\\src.zip";
